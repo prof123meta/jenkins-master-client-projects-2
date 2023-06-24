@@ -46,7 +46,7 @@ publishing {
     }
     repositories {
         maven {
-            url = "http://172.31.19.105:8081/repository/gradle-java-webapp-repository/"
+            url = "http://172.31.12.158:8081/repository/gradle-java-webapp-repository/"
             credentials {
                 username "admin"
                 password "admin"
